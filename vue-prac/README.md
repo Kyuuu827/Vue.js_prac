@@ -1,4 +1,4 @@
-# vue.js_prac
+# vue-prac
 
 ## Project setup
 ```
