@@ -16,10 +16,11 @@ export default  {
     HomeView
   },
   setup() {
-      const test = ref(null)
-    return {
 
-    }
+
+    return {
+    
   }
+}
 }
 </script>
