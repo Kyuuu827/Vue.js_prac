@@ -8,8 +8,9 @@
 <script>
 import HelloWorld from '@/components/HelloWorld.vue'
 import HomeView from './HomeView.vue'
+import { defineComponent } from 'vue'
 
-export default  {
+export default defineComponent({
   name: 'TestView',
   components: {
     HelloWorld,
@@ -17,6 +18,6 @@ export default  {
   },
   setup() {
 
-}
-}
+  }
+}) 
 </script>
