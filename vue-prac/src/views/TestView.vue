@@ -18,6 +18,9 @@ export default defineComponent({
   },
   setup() {
 
+    watch()
+    onMounted()
+
   }
 }) 
 </script>
